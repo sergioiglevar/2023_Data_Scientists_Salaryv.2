@@ -1,4 +1,4 @@
-# Telework Ratio Analysis
+# Data Salarys
 
 ## Overview
 
@@ -41,11 +41,9 @@ The dataset used for this analysis includes various remote job postings and incl
 
 1. **Data Loading**: Load the dataset into a Pandas DataFrame.
 2. **Data Cleaning**: Filter and clean the data to ensure accurate analysis.
-3. **Ratio Calculation**: Calculate the ratio of remote job postings per country.
-4. **Top Country Identification**: Identify the top 5 countries with a remote work ratio of 100%.
-5. **Visualization**: Use Matplotlib and Seaborn to create bar plots and 3D plots for better representation.
+3. **E.D.A**
 
-## Visualizations
+## E.D.A Visualizations
 
 The notebook includes the following visualizations:
 
