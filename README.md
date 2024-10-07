@@ -54,15 +54,19 @@ The notebook includes the following visualizations:
 
 These visualizations aim to enhance understanding and facilitate decision-making regarding remote work trends globally.
 
-## Usage
+## License
 
-To run the analysis, follow these steps:
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the license terms.
 
-    Clone the repository: bash git clone https://github.com/yourusername/telework-ratio-analysis.git
-    Navigate to the project directory: bash cd telework-ratio-analysis
-    Install the required packages: bash pip install -r requirements.txt
-    Open the Jupyter Notebook: bash jupyter notebook Telework_Ratio_Analysis.ipynb
+## Contact
 
-Contributing
+For any inquiries or suggestions, please reach out to:
 
-Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
+- **Name**: Sergio Iglesias Varela
+- **Email**: sergioiglesiasvarela1986@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sergio-iglesias-varela-586265109/
+- **GitHub**: https://github.com/sergioiglevar
+
+---
+
+*Happy Data Analyzing!*
